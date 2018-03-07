@@ -1,0 +1,11 @@
+DELAY 1000
+GUI r
+DELAY 300
+STRING notepad.exe
+ENTER
+DELAY 300
+STRING **************************************
+ENTER
+STRING **** AUSTIN WAS HERE.... WATCHING YOU ;) ****
+ENTER
+STRING **************************************

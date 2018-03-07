@@ -1,0 +1,19 @@
+DELAY 500
+GUI r
+DELAY 300
+STRING cmd.exe
+ENTER
+DELAY 400
+STRING npm install -g http-server
+ENTER
+DELAY 4000
+STRING git clone https://github.com/AustinTruex68/TicTacToe.git
+ENTER
+DELAY 2000
+STRING cd TicTacToe
+ENTER
+STRING npm install
+ENTER
+DELAY 4000
+STRING http-server -o
+ENTER
