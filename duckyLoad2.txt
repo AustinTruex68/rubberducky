@@ -1,3 +1,5 @@
+REM Target: WINDOWS - with npm
+REM Just clones a tic tac toe game and launches it
 DELAY 500
 GUI r
 DELAY 300

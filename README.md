@@ -1,0 +1,1 @@
+- java -jar path/duckencoder.jar -i <inputFile>.txt

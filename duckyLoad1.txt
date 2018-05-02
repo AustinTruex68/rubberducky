@@ -1,3 +1,5 @@
+REM Target: WINDOWS
+REM Just opens txt file and types into it
 DELAY 1000
 GUI r
 DELAY 300
